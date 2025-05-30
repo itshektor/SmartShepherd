@@ -1,0 +1,2 @@
+# SmartShepherd
+Projekti i praktikes
